@@ -1,0 +1,7 @@
+
+node_modules/*
+.idea/codeStyles/codeStyleConfig.xml
+.idea/modules.xml
+.idea/proovitoo-lumav.iml
+.idea/workspace.xml
+debug.log
